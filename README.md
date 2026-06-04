@@ -1,5 +1,5 @@
 # sp25-proj3-g382
-Animalia — SP25 Project 3
+SP25 Project 3
 A 2D tile-based exploration game built in Java using the Princeton StdDraw library.
 
 Gameplay
